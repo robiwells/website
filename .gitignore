@@ -1,5 +1,14 @@
-# Created by https://www.toptal.com/developers/gitignore/api/jekyll,macos
-# Edit at https://www.toptal.com/developers/gitignore?templates=jekyll,macos
+# Created by https://www.toptal.com/developers/gitignore/api/macos,jekyll,firebase
+# Edit at https://www.toptal.com/developers/gitignore?templates=macos,jekyll,firebase
+
+### Firebase ###
+.idea
+**/node_modules/*
+**/.firebaserc
+
+### Firebase Patch ###
+.runtimeconfig.json
+.firebase/
 
 ### Jekyll ###
 _site/
@@ -43,4 +52,4 @@ Temporary Items
 # iCloud generated files
 *.icloud
 
-# End of https://www.toptal.com/developers/gitignore/api/jekyll,macos
+# End of https://www.toptal.com/developers/gitignore/api/macos,jekyll,firebase
