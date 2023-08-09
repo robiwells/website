@@ -1,5 +1,11 @@
 name: CI
-on: [push, pull_request]
+on: 
+  push: 
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
 
 jobs:
   build:
@@ -13,5 +19,5 @@ jobs:
           ruby-version: '3.2.1'
       - name: Install dependencies
         run: bundle install
-      - name: Install dependencies
+      - name: Build
         run: bundle exec jekyll build
