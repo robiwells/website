@@ -132,15 +132,15 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: https://www.linkedin.com/in/robert-ian-wells/
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: https://github.com/robiwells
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
