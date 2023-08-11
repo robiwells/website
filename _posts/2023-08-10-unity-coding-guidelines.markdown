@@ -491,10 +491,10 @@ Instead of:
 ```csharp
 if(userInDB)
 {
-	if(userAuthorised)
+  if(userAuthorised)
   {
-		// User is authorised
-	}
+    // User is authorised
+  }
 }
 ```
 
@@ -503,7 +503,7 @@ Do:
 ```csharp
 if(!userInDB && !userAuthorised)
 {
-	return;
+  return;
 }
 
 // User is authorised
@@ -562,10 +562,7 @@ Especially Unity events. There is a small overhead to having an empty Unity even
 
 ## 2.24 Ensure all imports are used
 
-If greyed out remove them:
-
-![Screenshot 2023-07-12 at 17.44.28.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/78cf96a1-3c5b-46f5-b91a-807ad5ddedc3/Screenshot_2023-07-12_at_17.44.28.png)
-
+They can safely be removed if greyed out in Visual Studio.
 ## 2.25 Add a TODO comment when further work is required but is not currently in scope
 
 ```csharp
