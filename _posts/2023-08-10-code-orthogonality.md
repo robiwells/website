@@ -2,7 +2,7 @@
 layout: single
 title:  "Mindful development: code orthogonality"
 date:   2023-08-15 20:00:00 +0100
-categories: startups 
+categories: mindful coding unity
 ---
 
 Today's topic is one many of us might have come across but haven't dived deeply into: Code Orthogonality. This concept, popularised by the book [The Pragmatic Programmer: From Journeyman to Master](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer), is one way to create robust, efficient and maintainable code.
@@ -40,7 +40,7 @@ To help you picture this in practice, below are several examples of Code Orthogo
 
 The ECS pattern in Unity inherently promotes Code Orthogonality as each behaviour is a separate system and works independently. For example, if you have a “MovementSystem” and a “RenderSystem”, they won’t interfere with each other. The MovementSystem purely handles the logic for movement, and the RenderSystem only takes care of rendering the entities. They can function and be modified independently of each other. 
 
-```C#
+```csharp
 class MovementSystem : ComponentSystem
 {
     protected override void OnUpdate()
