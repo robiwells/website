@@ -68,19 +68,3 @@ I take on tech debt, with one mindset: go fast now to go slower later. In a fast
 
 Remember this: Not all tech debt is bad. A deliberate, conscious decision to incur tech debt to hasten a product’s speed to market can be a wise trade-off, provided it is recognised and managed carefully. Like a tool, when wielded skilfully, it can allow startups to stay nimble, beat the competition, and make crucial pivots promptly. However, if neglected or left unnoticed, it can incur heavy penalties down the line and will impede your speed later. 
 
-
-    This article was written with help from ChatGPT. 
-    ChatGPT helped to:
-    1. Refine an existing idea
-    2. Research the topic
-    3. Proofreading and editing
-    4. Construct an outline
-    5. Define key points of discussion
-    6. Rephrase some of my more poorly written paragraphs
-    7. Suggest visuals
-
-    However, all my posts are original and written by me. 
-    Thanks for reading!
-
-
-
