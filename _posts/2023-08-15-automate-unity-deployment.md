@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Automating deployment in Unity: going from 0 to ‘wow I wish I’d done this sooner…’"
+title:  "Automating deployment in Unity: going from 0 to ‘wow, I wish I’d done this sooner…’"
 date:   2023-08-15 11:09:59 +0100
 categories: startups automation unity
 ---
