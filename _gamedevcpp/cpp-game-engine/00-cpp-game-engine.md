@@ -1,12 +1,12 @@
 ---
-title: "C++ GAME DEV 0: INTRODUCTION"
+title: "C++ GamE Dev 0: Introduction"
 permalink: /gamedev/cpp-game-dev-0/
 excerpt: "Project Setup"
+layout: archive
 sidebar:
   nav: "gamedev"
 ---
 
-{% include base_path %}
 
 This is part of an ongoing series where we write a complete 2D game engine in C++ and SFML. A new tutorial is released every Monday. You can find the complete list of tutorials here and download the source code from the projects [GitHub page](https://github.com/thatgamesguy/that_game_engine).
 

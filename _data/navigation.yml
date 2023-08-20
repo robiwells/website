@@ -2,19 +2,21 @@
 main:
   - title: "Blog"
     url: /blog/ 
+  - title: "Tutorials"
+    url: /gamedev/cpp-game-dev-0/    
   - title: "CV"
     url: /cv/
   - title: "Book"
     url: http://mybook.to/unity2020byexample
-  # - title: "Sample Posts"
-  #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
 
 gamedev:
-  - title: Getting Started
+  - title: C++ Game Dev
     children:
-      - title: "Quick-Start Guide"
-        url: /gamedev/cpp-game-dev-0/
+      - title: "0: Project Intro"
+        url:  /gamedev/cpp-game-dev-0/
+      - title: "1: Game Loop"
+        url:  /gamedev/cpp-game-dev-1/        

@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /gamedev/
+permalink: /tutorials/
 sidebar:
   nav: "gamedev"
 ---
