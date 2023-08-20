@@ -2,7 +2,11 @@
 title: "C++ Game Dev 0: Introduction"
 permalink: /gamedev/cpp-game-dev-0/
 excerpt: "Project Setup"
-layout: archive
+layout: single
+share: true
+comments: true
+next: 
+  url: /gamedev/cpp-game-dev-1/
 sidebar:
   nav: "gamedev"
 ---

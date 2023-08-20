@@ -2,7 +2,11 @@
 title: "C++ Game Dev 1: Game Loop"
 permalink: /gamedev/cpp-game-dev-1/
 excerpt: "Project Setup"
-layout: archive
+layout: single
+share: true
+comments: true
+previous: 
+  url: /gamedev/cpp-game-dev-0/
 sidebar:
   nav: "gamedev"
 ---
@@ -196,7 +200,7 @@ We need to initialise and update the window in Game.cpp:
 **Game.cpp:**
 ```cpp
 Game::Game() 
-	: window(“that game engine”) // You can call the window anything you like. 
+  : window(“that game engine”) // You can call the window anything you like. 
 {
 …
 }
