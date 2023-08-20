@@ -1,5 +1,5 @@
 ---
-title: "C++ GamE Dev 0: Introduction"
+title: "C++ Game Dev 0: Introduction"
 permalink: /gamedev/cpp-game-dev-0/
 excerpt: "Project Setup"
 layout: archive
