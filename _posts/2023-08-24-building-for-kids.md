@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Building age appropriate digital experiences for kids"
-date:   2023-08-21 20:00:00 +0100
+date:   2023-08-24 10:00:00 +0100
 categories: startups coding kidtech design
 ---
 
