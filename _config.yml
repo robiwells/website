@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-GB"
 title                    : "Rob Wells"
 title_separator          : "-"
-subtitle                 : "Engineering + Leadership" # site tagline that appears below site title in masthead
+subtitle                 : "Engineering Leadership at Startups" # site tagline that appears below site title in masthead
 name                     : "Rob Wells"
-description              : "Engineering Leadership."
+description              : "Engineering Leadership at Startups."
 url                      : "https://robwells.dev"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "robiwells/website"
