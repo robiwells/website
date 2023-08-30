@@ -2,7 +2,7 @@
 title: "Tasty kitchen"
 excerpt: "Healthy eating game"
 header:
-  teaser: /assets/images/tastykitchen/tk-icon.png
+  teaser: /assets/images/tastykitchen/tk-icon.webp
 sidebar:
   - title: "Role"
     text: "Engineering Manager, Lead Games Developer"
