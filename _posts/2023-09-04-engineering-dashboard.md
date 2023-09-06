@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "The who, what, where, why, and how of engineering dashboards"
-date:   2023-09-04 10:00:00 +0100
+date:   2023-08-28 10:00:00 +0100
 categories: startups management analytics
 ---
 
