@@ -1,9 +1,7 @@
 # main links
 main:
   - title: "Blog"
-    url: /blog/ 
-  - title: "Portfolio"
-    url: /portfolio/     
+    url: /blog/  
   - title: "Tutorials"
     url: /gamedev/cpp-game-dev-0/        
   - title: "CV"
