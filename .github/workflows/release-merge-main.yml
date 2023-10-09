@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Set up Ruby
-        uses: ruby/setup-ruby@ec02537da5712d66d4d50a0f33b7eb52773b5ed1
+        uses: ruby/setup-ruby@d37167af451eb51448db3354e1057b75c4b268f7
         with:
           ruby-version: '3.2.1'
       - name: Install dependencies
