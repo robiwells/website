@@ -3,6 +3,10 @@ layout: single
 title:  "Mindful technical debt: a framework"
 date:   2023-08-11 11:09:59 +0100
 categories: startups 
+header:
+  overlay_image: /assets/images/posts/tech_debt.webp
+  overlay_filter: 0.6 # same as adding an opacity of 0.5 to a black background
+  teaser: /assets/images/posts/tech_debt.webp
 ---
 
 I used to believe that technical debt was always bad. Whenever I joined companies that had well-established products, I couldn't help but question the quality of parts of the code. But why is it so common to encounter poorly designed code at the core of a system? 

@@ -1,7 +1,11 @@
 # main links
 main:
-  - title: "Blog"
-    url: /blog/  
+  # - title: "Blog"
+  #   url: /blog/  
+  - title: "Startups"
+    url: /startups/  
+  - title: "Coding"
+    url: /coding/       
   - title: "Tutorials"
     url: /gamedev/cpp-game-dev-0/        
   - title: "CV"

@@ -2,7 +2,11 @@
 layout: single
 title:  "Conscious coding: a mindful approach to software development"
 date:   2023-08-16 10:00:00 +0100
-categories: startups automation unity
+categories: startups automation unity coding
+header:
+  overlay_image: /assets/images/posts/mindful_coding.webp
+  overlay_filter: 0.6 # same as adding an opacity of 0.5 to a black background
+  teaser: /assets/images/posts/mindful_coding.webp
 ---
 
 It is easy to become absorbed in the technical challenges that arise, complex problems that need untangling, and the novelty of the latest tools and technologies. While these are integral aspects of the coding process, they should never overshadow an essential underlying principle: conscious coding. But what exactly is conscious coding, and how can we cultivate it to improve our craft?

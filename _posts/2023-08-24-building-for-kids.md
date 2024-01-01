@@ -3,6 +3,10 @@ layout: single
 title:  "Building age appropriate digital experiences for kids"
 date:   2023-08-24 10:00:00 +0100
 categories: startups coding kidtech design
+header:
+  overlay_image: /assets/images/posts/age_appropriate_digital_experiences.webp
+  overlay_filter: 0.6 # same as adding an opacity of 0.5 to a black background
+  teaser: /assets/images/posts/age_appropriate_digital_experiences.webp
 ---
 
 Digital technology has permeated all aspects of our children’s lives.  They are growing up in an era characterised by rapid digital transformation. To navigate this online first world, educators and parents must help children understand digital boundaries, ensure their safety, and foster enjoyable digital experiences that are tailored to their age and developmental stages. 

@@ -3,9 +3,14 @@ layout: single
 title:  "Unity C# Guidelines"
 date:   2023-08-10 11:09:59 +0100
 categories: unity coding
+tagline: "Welcome to the wild west of coding standards, where every line of code is a showdown and semicolons are quicker on the draw than a gunslinger's pistol. Buckle up, engineers, as we ride through the dusty trails of programming guidelines that'll make your code cleaner than a whistle and as efficient as a steam train on the Transcontinental Railroad"
+header:
+  overlay_image: /assets/images/posts/coding_guidelines.webp
+  overlay_filter: 0.6 # same as adding an opacity of 0.5 to a black background
+  teaser: /assets/images/posts/coding_guidelines.webp
 ---
 
-The style guidelines and best practices for our engineering team at Prickly Bear when working with Unity C#.
+The style guidelines and best practices for our engineering team when working with Unity C#.
 
 1. [Style Conventions](#style-conventions)
 2. [C# Guidelines](#csharp-guidelines)

@@ -2,12 +2,14 @@
 layout: single
 title:  "Automating deployment in Unity: going from 0 to ‘wow, I wish I’d done this sooner…’"
 date:   2023-08-15 11:09:59 +0100
-categories: startups automation unity
+categories: startups automation unity coding
+header:
+  overlay_image: /assets/images/posts/automating_deployment.webp
+  overlay_filter: 0.6 # same as adding an opacity of 0.5 to a black background
+  teaser: /assets/images/posts/automating_deployment.webp
 ---
 
-In this post, I will walk you though how to automate building a Unity project and deploying  to the App and Google Play stores. 
-
-In a startup, where time-to-market and agility are crucial, Continuous Deployment (the ‘CD’ of [CI/CD](https://www.redhat.com/en/topics/devops/what-is-ci-cd)) offers several advantages. It automates the build, test, and deployment processes, reducing the risk of human error and decreasing time developers spend watching a loading bar. It also enables faster iterations: developers can frequently merge code changes, run tests, and deploy them to production with minimal effort. This empowers startups to respond swiftly to market demands and rapidly deliver new features. 
+In a startup, where time-to-market is crucial, Continuous Deployment (the ‘CD’ of [CI/CD](https://www.redhat.com/en/topics/devops/what-is-ci-cd)) offers several advantages. It automates the build, test, and deployment processes, reducing the risk of human error and decreasing time developers spend watching a loading bar. It also enables faster iterations: developers can frequently merge code changes, run tests, and deploy them to production with minimal effort. This empowers startups to respond swiftly to market demands and rapidly deliver new features. 
 
 <p align="center">
     <img src="/assets/images/compiling.png" /> 
@@ -17,7 +19,7 @@ As you can tell, I truly believe a good CD pipeline can step change a developmen
 1. Automatically builds our Unity project for iOS and Android
 2. Automatically deploys the builds to the App and Google Play stores
 
-#What we use
+# What we use
 
 The CD pipeline at Prickly Bear relies on 2 services:
 - [Github](https://github.com/)

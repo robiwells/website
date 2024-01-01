@@ -3,11 +3,15 @@ layout: single
 title:  "Why you should continue to code as an Engineering Manager"
 date:   2023-08-19 10:00:00 +0100
 categories: startups coding 
+header:
+  overlay_image: /assets/images/posts/continue_to_code.webp
+  overlay_filter: 0.6 # same as adding an opacity of 0.5 to a black background
+  teaser: /assets/images/posts/continue_to_code.webp
 ---
 
 As an engineering leader, you bridge the gap between the technical domain and the world of business strategy, setting the direction for your team, and making critical decisions that shape the future of your company.
 
-The assumption among some of these leaders is that climbing higher on the ladder means leaving coding behind. I used to believe just this when I first became an Engineering Manager. As I focused on developers growth and productivity, I believed I no longer needed to code to support my team. However, continuing to code, even as your team grows has many benefits and will enhance your impact as an engineering leader, allowing you to connect more deeply with your product, inspire your team, and keep pace with the rapidly evolving tech industry. It also enables you to be an expert mentor and coach to your team.
+The assumption among some of these leaders is that climbing higher on the ladder means leaving coding behind. I used to believe just this when I first became an Engineering Manager. As I focused on developers growth and productivity, I believed I no longer needed to code to support my team. However, continuing to code, even as your team grows has many benefits and will increase your impact as an engineering leader, allowing you to connect more deeply with your product, inspire your team, and keep pace with the rapidly evolving tech industry. It also enables you to be an expert mentor and coach to your team.
 
 As someone who has struggled with the decision on whether to continuing coding, I would like to share the benefits that led me to decide to continue. And in the process, hopefully debunk the myth that taking on management roles means you must hang up your programming hat. We will explore why maintaining your coding prowess can augment your strategic vision, amplify your creative thinking, improve your team’s productivity, and ultimately help you be a more accomplished, effective, and insightful leader. 
 

@@ -3,6 +3,10 @@ layout: single
 title:  "Mindful development: code orthogonality"
 date:   2023-08-15 20:00:00 +0100
 categories: mindful coding unity
+header:
+  overlay_image: /assets/images/posts/orthogonality.webp
+  overlay_filter: 0.6 # same as adding an opacity of 0.5 to a black background
+  teaser: /assets/images/posts/orthogonality.webp
 ---
 
 Today's topic is one many of us might have come across but haven't dived deeply into: Code Orthogonality. This concept, popularised by the book [The Pragmatic Programmer: From Journeyman to Master](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer), is one way to create robust, efficient and maintainable code.

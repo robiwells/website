@@ -3,14 +3,20 @@ layout: single
 title:  "The who, what, where, why, and how of engineering dashboards"
 date:   2023-08-28 10:00:00 +0100
 categories: startups management analytics
+tagline: "Being a developer is fudging hard. Everything changes all the time and expectations on us are high. However, all is not lost, as we have 2 major levers to help us in our role. Welcome to the (not so comprehensive) guide on “Navigating Engineering Excellence with Data-Driven Dashboards” aka the who, what, where, why, and how of
+ engineering dashboards."
+header:
+  overlay_image: /assets/images/posts/engineering_dashboard.webp
+  overlay_filter: 0.6 # same as adding an opacity of 0.5 to a black background
+  teaser: /assets/images/posts/engineering_dashboard.webp
 ---
 
 This is how ChatGPT would start this post:
 ‘“In the fast-paced realm of modern technology, where innovation is relentless and competition is fierce, engineering teams are challenged to deliver exceptional results while managing complex projects and dynamic landscapes. The key to success lies in harnessing the power of data insights—transforming raw information into actionable knowledge that empowers informed decision-making, fosters collaboration, and drives continuous improvement.”
 
-I can put it more succinctly: being a developer is fucking hard. Everything changes all the time and expectations on us are high (as they should be). However, all is not lost, as we have 2 major levers to help us in our role:
+I can put it more succinctly: being a developer is fudging hard. Everything changes all the time and expectations on us are high (as they should be). However, all is not lost, as we have 2 major levers to help us in our role:
 1. We know data
-2. We can build cool shit to visualise data 
+2. We can build cool stuff to visualise data 
   
 Welcome to the (not so comprehensive) guide on “Navigating Engineering Excellence with Data-Driven Dashboards” aka the who, what, where, why, and how of
  engineering dashboards (although it’’s not really so much the ‘who’ or ‘where’ as who doesn’t make sense and the where is your company…). 
