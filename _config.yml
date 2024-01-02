@@ -106,13 +106,13 @@ analytics:
 author:
   name             : "Rob Wells"
   avatar           : "/assets/images/self_lightmode_whtebg_512.webp"
-  bio              : "Info about me goes **here**."
+  bio              : "Making it child's play!"
   location         : "London, UK"
-  email            :
+  email            : 
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:hi@robwells.dev"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -124,7 +124,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/robiwells"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: https://www.linkedin.com/in/robert-ian-wells/
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -290,7 +293,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: true
       share: true
