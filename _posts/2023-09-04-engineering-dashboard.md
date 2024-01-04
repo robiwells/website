@@ -23,7 +23,7 @@ Welcome to the (not so comprehensive) guide on “Navigating Engineering Excelle
 
 There’s one goal for this post: to encourage you to consider implementing an engineering dashboard if you haven’t already. Whether you’re a startup aiming to optimise your development processes or an established company seeking to enhance your engineering endeavours, I truly believe that a dashboard can help improve your teams performance (plus it has other benefits that extend beyond your team as we will see shortly) .
 
-## The need for engineering dashboards
+# The need for engineering dashboards
 I don’t believe I will shock you when I say that tracking and monitoring Key Performance Indicators (KPIs) is crucial for ensuring project success, team efficiency, and continuous improvement. However, neither would I be shocked, if you told me that yes you’ve spoken about KPIs at some point in the past, and may have even set some, but you don’t think about them often and speak about them even less. There are many reasons for this, the traditional methods of manual data collection, analysis, and reporting can be time-consuming, error-prone, and lack real-time insights. This is where engineering dashboards come into play, revolutionising  the way engineering teams manage and harness their KPIs. ‘Revolutionising’ may seem like an overly grand term for what is essentially just removing manual processes (or adding processes that didn’t exist previously), but in the same way that continuous deployment has revolutionised the way we deploy code, this will do the same for performance tracking. 
 
 Manual KPI tracking involves sifting through data across various tools and systems, making it challenging to get a holistic view of team performance and project health. The delays in data aggregation and reporting hinder timely decision-making, potentially impacting project timelines and outcomes. Plus if it’s a pain to do, people will stop doing it at the first available opportunity.
@@ -34,7 +34,7 @@ Now the true power comes when you share the dashboard more widely i.e. outside t
 
 So now you know why you want one, where do you begin? Well, if you’re in one of the many _many_ organisations that haven’t yet, you need to first define your KPIs. This is not a task to take light hearted. It can and will break your organisation if you chose the wrong KPIs.
 
-## Defining relevant KPIs
+# Defining relevant KPIs
 An engineering dashboard is only as effective as the KPIs it tracks. The process of defining and selecting the right KPIs is a critical foundation for a successful dashboard (and company).
 
 The success of your engineering dashboard hinges on the relevance and significance of the KPIs you choose to track. KPIs should directly reflect your team’s objectives, providing insights into the areas that matter most for achieving project success, team efficiency, and continuous improvement.
@@ -78,7 +78,7 @@ As you embark on the journey of building your engineering dashboard, remember th
 
 With a clear understanding of the KPIs you want to track, the next step in building your engineering dashboard is selecting the appropriate dashboard platform. 
 
-## Choosing the Right Dashboard Platform
+# Choosing the Right Dashboard Platform
 The right platform not only enables seamless integration of data sources but also empowers you to visualise KPIs effectively. But how do you decide which platform is the one for you and your team?
 
 **Consider Your Data Sources:**
@@ -141,7 +141,7 @@ The beauty of an engineering dashboard lies in its ability to consolidate data f
 **Step 8: Ensuring Data Security:**
 While data integration is essential, data security cannot be compromised. Protect sensitive engineering metrics by implementing encryption, access controls, and authentication mechanisms. Ensure that only authorised team members have access to the dashboard and its underlying data sources.
 
-## Team Collaboration and Visibility
+# Team Collaboration and Visibility
 An effective engineering dashboard goes beyond providing data—it serves as a catalyst for collaboration, aligning goals, and enhancing team communication. But for this to happen, you need to embed the dashboard in existing processes. During meetings, stand-ups, or retrospectives, team members can refer to the dashboard to inform discussions, share insights, and identify areas for improvement. It serves as a visual representation of your team’s alignment with broader organisational goals. When team members can see how their work contributes to overarching objectives, they are motivated to work collaboratively towards shared success. A well-designed engineering dashboard promotes transparency by providing a comprehensive view of your team’s progress and performance. It fosters a culture of accountability, as team members can easily track their contributions and the impact of their efforts. The dashboard becomes a common ground for data-driven discussions. 
 
 The dashboard serves as a neutral platform for discussing performance metrics. Instead of relying on anecdotes or assumptions, discussions are grounded in real-time data that facilitates accurate and objective assessments. When decisions are supported by data, their impact is more profound. The dashboard equips your team with the insights needed to make informed decisions, minimising the risks associated with gut feelings or assumptions. When making decisions we need to balance opinion and data and a dashboard helps us do just that. 
@@ -150,7 +150,7 @@ Collaboration around the dashboard encourages the identification of trends and p
 
 Key takeaway: the dashboard is only useful if you make it so. Not only do you need to track the right metrics, select a suitable dashboard, setup a data pipeline to automatically push the right data, and make sure that data is visualised in a meaningful way; you also need to pull the team in by embedding the dashboard in your regular engineering processes. 
 
-## Data Security and Privacy
+# Data Security and Privacy
 Security is important. In fact, data security and privacy are non-negotiable when it comes to engineering dashboards  There are a number of security considerations when implementing any new tool that moves confidential data from point a to point b and provided access to that data to users who may not have had it initially. 
 
 **Securing Dashboard Access:**
@@ -216,7 +216,7 @@ FizzleTech’s engineering dashboard featured a range of widgets tailored to the
 **Continued Evolution:**
 As FizzleTech grew, so did their dashboard’s capabilities. They integrated advanced analytics from Mixpanel to show changes in key metrics (retention, monetisation) after key releases. 
 
-## Final thoughts
+# Final thoughts
 ChatGPT would conclude this post like so:
 “As we reach the conclusion of our comprehensive guide on building engineering dashboards, we’ve explored the critical elements that contribute to their effectiveness, from understanding the need for data insights to the successful implementation of these tools. Engineering dashboards are not mere displays of data; they are powerful instruments that empower teams to navigate the complexities of development, make informed decisions, and achieve excellence.”
 

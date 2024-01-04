@@ -17,7 +17,7 @@ Imagine walking into a classroom where your learning buddy isn’t a weary class
 
 But don’t get too cozy with the idea of a robot uprising just yet. These AI educators aren’t here to replace our beloved human teachers (phew!). Instead, they’re like the trusty sidekicks, aiding and abetting in our quest for knowledge. With AI, every ‘oops’ in algebra or stumble in Shakespeare isn’t just a mistake; it’s a step closer to mastering the art of learning. So, as we embark on this journey through the corridors of AI-assisted education, let’s keep our humour intact and our curiosity piqued.
 
-**AI Teachers - More Than Just Fancy Algorithms**
+# AI Teachers - More Than Just Fancy Algorithms
 
 Remember the good old days when ‘AI’ in the classroom meant **A**lbert e**I**nstein posters on the wall? Times have changed, and now the AI in our classrooms are a tad more… algorithmic. But fear not, these AI teachers are more than glorified calculators; they’re the new superheroes of personalised education.
 
@@ -31,7 +31,7 @@ AI teachers tailor the learning experience to each student’s pace and style. T
 
 In this brave new world, the AI teacher is not just a dispenser of knowledge but a guide on a journey of discovery. They’re the ones who encourage you to ask, “Why is the sky blue?” and then help you understand the science behind it, all while making sure you don’t get lost in the cumulus clouds of confusion.
 
-**Customised Learning: One Size Does Not Fit All**
+# Customised Learning: One Size Does Not Fit All
 
 In the mystical land of traditional education, one size was supposed to fit all. Spoiler alert: it didn’t. Enter the era of AI in education, where learning is as customised as your morning latte. Venti-sized algebra with a shot of historical anecdotes, anyone?
 
@@ -43,7 +43,7 @@ But it’s not all smooth sailing. Imagine an AI getting a bit too creative, lik
 
 The beauty of this AI-driven approach is that it turns learning from a monotonous chore into an exciting adventure. It’s like having a personal genie, but instead of granting wishes, it unlocks the magic of learning in ways you never thought possible.
 
-**Machine Learning: The Brain Behind the AI**
+# Machine Learning: The Brain Behind the AI
 
 Welcome to the secret sauce of AI in education: machine learning. It’s like teaching your computer to think, which is less scary than it sounds and more like training a very enthusiastic puppy that loves math and grammar.
 
@@ -59,7 +59,7 @@ Now, machine learning isn’t perfect. Sometimes, it gets a bit overzealous. Lik
 
 In essence, machine learning is the choreographer of this intricate dance of personalised education. It ensures every step, twirl, and leap in learning is in tune with the student’s rhythm.
 
-**The Challenges and Hilarities of AI in Education**
+# The Challenges and Hilarities of AI in Education
 
 While AI in education sounds like a dream, let’s face it, every dream has its peculiarities – like finding yourself in school but your pants are somehow missing. Implementing AI in education comes with its own set of humorous hiccups and challenges.
 
@@ -71,7 +71,7 @@ And let’s not forget the times when AI personalisation goes a bit off the rail
 
 Despite these challenges, the journey of integrating AI into education is filled with more laughter than frustration. It’s like teaching your grandparents to use a smartphone – there will be mishaps, but the progress is heartwarming (and often hilarious).
 
-**Embracing Our AI Overlords (Just Kidding!)**
+# Embracing Our AI Overlords (Just Kidding!)
 
 As we embrace this new era of education, let’s remember that the goal isn’t to replace the human touch in teaching but to enhance it. AI might be the flashy new tool in our educational toolkit, but it’s the partnership between human creativity and digital innovation that will truly transform the way we learn.
 
