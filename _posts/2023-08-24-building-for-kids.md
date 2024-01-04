@@ -17,12 +17,12 @@ Some notes before we start, throughout this post:
 - I use the word ‘Parent’ to mean any caregiver who is responsible for a child.
 - I use the terms ‘app’, ‘game’, and ‘experience’ interchangeably. Please replace as appropriate.
 
-## Decide on a target age group
+# Decide on a target age group
 Decide on a a target age group and understand the capabilities of the children in that group. Children across different age groups have varying levels of comprehension, interests, and skills. An age-appropriate application for a four-year-old will not be equally engaging or beneficial for a ten-year-old (unless there is deep customisation/recommendations engines underpinning the content). Understanding children's cognitive, social, emotional, and physical development stages can help inform design and content creation.
 
 Child development is a fascinating journey that unfolds in distinct stages, marked by significant physical, cognitive, emotional, and social changes. As developers of experiences for children, it’s crucial to have a solid understanding of these developmental stages. For a general guideline, you can find discrete stages of childhood development online that provide a ‘rule of thumb’ on the capabilities of a child at a specific age. The breakdown below is just an example and one of many that can be found online. Reality is much more fluid. Of course, a 3 year old is drastically different from a 6 year old. So take all of this with a grain of salt.
 
-#### Infants (0-2 years)
+## Infants (0-2 years)
 The first two years of life are marked by exceptional growth and rapid development. During this time, infants undergo tremendous physical changes such as rapid weight gain, motor skill development, and sensory exploration. Key developmental highlights include:
 - **Motor Skills:** Infants go from simple reflexes to more complex movements like rolling over, sitting up, crawling, and eventually walking.
 - **Language Development:** While not initially capable of speech, infants communicate through cries, coos, and gestures. They start to understand and respond to simple words and tones.
@@ -30,7 +30,7 @@ The first two years of life are marked by exceptional growth and rapid developme
 
 [There is strong evidence that it is not beneficial for children under 2 to have screen time.](https://www.unicef.org/parenting/child-development/babies-screen-time#:~:text=Babies%20learn%20the%20most%20from%20human%20interaction&text=You%20get%20genius%20learning%20from,those%20aged%202%20to%204.)
 
-#### Early Childhood (3-6 years)
+## Early Childhood (3-6 years)
 This stage is characterised by an explosion of cognitive, social, and emotional growth. Children in this age group are curious and eager to explore the world around them.  Children will have managed screen time, led by a parent who will find apps and games and generally sit with their kid while they’re on the device. Although, as a parent, I must admit I have left my oldest (who fits in this bracket) unattended with certain apps.
 
 Key developmental highlights include:
@@ -38,7 +38,7 @@ Key developmental highlights include:
 - **Social Development:** Play becomes an important tool for learning social skills, cooperation, and conflict resolution. Children begin to form friendships and understand others’ perspectives. Social games grow in importance . 
 - **Emotional Development:** Emotional expression becomes more nuanced. Children learn to identify and manage their emotions, although they may still struggle with impulse control. This is very important when it comes to designing purchase/subscription flows. You need to make sure kids do not have access to them. 
 
-#### Middle Childhood (7-11 years)
+## Middle Childhood (7-11 years)
 Middle childhood is marked by increasing independence and the consolidation of skills gained in earlier stages. Children become more capable of reasoning and understanding complex concepts. 
 
 Key developmental highlights include:
@@ -46,7 +46,7 @@ Key developmental highlights include:
 - **Social Development:** Friendships become more stable and important. Children start to understand social norms, empathy, and the value of teamwork.
 - **Self-Identity:** Children start to form their self-concept and self-esteem. They may explore their interests and develop a sense of competence in various activities.
 
-#### Adolescence (12-18 years)
+## Adolescence (12-18 years)
 Adolescence is a period of rapid change, both physically and emotionally. It’s a time of self-discovery and identity formation. 
 
 Key developmental highlights include:
@@ -68,7 +68,7 @@ Questions to ask yourself:
 - What is the demographic breakdown of your potential audience?
 - How are other apps or games catering to different age groups, and what can you learn from their successes and challenges?
 
-## Decide on content
+# Decide on content
 Content is at the heart of the digital experience. Your aim should be to develop (or buy) meaningful, stimulating, and age-appropriate content that appeals to the target age group. This could include child-friendly graphics, videos, stories, animations, puzzles, educational games or quizzes. Use relatable characters, simple language, vibrant colours and motion to capture and sustain children’s attention. Just don’t be evil. Once you have their attention, teach them something or help them in some way.
 
 Questions to ask yourself:
@@ -89,7 +89,7 @@ Questions to ask yourself:
 - Does the content align with the cognitive abilities and interests of the target age group?
 - Are challenges and tasks appropriately challenging but not overly frustrating?
 
-## Make the experience intuitive and accessible
+# Make the experience intuitive and accessible
 A clean, simple and intuitive interface is more likely to be child-friendly. Eliminate complex navigation menus and stick to straightforward, understandable icons. Create a path of least resistance for the young user to interact with the digital experience.
 
 Questions to ask yourself:
@@ -104,7 +104,7 @@ Questions to ask yourself:
 - Are there open-ended activities that allow for imaginative play?
 - Does the app/game facilitate social interactions, such as multiplayer modes or collaborative activities? If so, is there a balance between solo and interactive experiences?
 
-## Prioritise a childs safety and privacy
+# Prioritise a childs safety and privacy
 Children's safety online is a paramount concern. Designing a platform that fosters a secure online environment includes blocking inappropriate content, enabling parental controls, securing data privacy, and implementing stringent guidelines for any social features to prevent cyberbullying. Understand all relevant regulations, including [GDPR](https://gdpr-info.eu) and [COPPA](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa).
 
 Questions to ask yourself:
@@ -130,7 +130,7 @@ Questions to ask yourself:
 
 As you can see there are many questions (and many more that haven’t been listed here). This is important. 
 
-## Promote healthy digital habits
+# Promote healthy digital habits
 Educate children on the balanced use of technology. This could mean setting time limits, prompting active breaks, offering offline activities or suggesting physical exercises within the user interface. 
 
 Questions to ask yourself:
@@ -139,7 +139,7 @@ Questions to ask yourself:
    - Should you develop features or rewards for offline activities?
    - Should you collaborate with educators or health experts to learn more about promoting a balanced, healthy lifestyle?
 
-## Seek feedback and continuously improve
+# Seek feedback and continuously improve
 Regular user testing and feedback from children and their parents or care-givers can be invaluable to enhance the digital experience. As adults, designing experiences for children can be difficult. Some kids have spent a long time thinking about what the perfect game/experience/app looks like (I know I did as a child as I dreamt of making my own games), use this to help guide your development.
 
 Questions to ask yourself:
@@ -149,7 +149,7 @@ Questions to ask yourself:
 - Can you run interactive workshops or focus group discussions with children and their parents?
 - How do you revise and enhance the experience based on feedback and test results?   
 
-## Don’t forget the parents!
+# Don’t forget the parents!
 Depending on your target age group a parents involvement ranges from minimal (the child has found the app/game/experience themselves and must now convince their parent to pay money), to all consuming (the parent finds the app, onboards their child, and pays for the experience). Either way, you must have clear messaging around the benefits your experience will bring to their child. 
 
 Questions to ask yourself:
@@ -161,5 +161,5 @@ Questions to ask yourself:
 
 Design for children first but do not forget the parents! 
 
-## Final thoughts
+# Final thoughts
 Building the right digital experience for kids offers an amazing opportunity to positively influence their development and prepare them for a tech-driven world. It involves entertaining and educating them, all the while protecting them during their digital journey. With thoughtful design and continuous enhancement, we can create a digital landscape where children thrive, learn, and most importantly - enjoy their childhood. 

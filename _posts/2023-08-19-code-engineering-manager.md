@@ -15,7 +15,7 @@ The assumption among some of these leaders is that climbing higher on the ladder
 
 As someone who has struggled with the decision on whether to continuing coding, I would like to share the benefits that led me to decide to continue. And in the process, hopefully debunk the myth that taking on management roles means you must hang up your programming hat. We will explore why maintaining your coding prowess can augment your strategic vision, amplify your creative thinking, improve your team’s productivity, and ultimately help you be a more accomplished, effective, and insightful leader. 
 
-## Role of an Engineering Leader
+# Role of an Engineering Leader
 Engineering leaders drive strategic planning, oversee talent management, coordinate project timelines, and act as the key decision-makers. They wear many hats, and a non-exhaustive list of responsibilities looks something like this:
 
 - Strategy and Decision Making: Engineering leaders drive the strategic direction of technology projects. This involves making high-level decisions about project scope, timelines, and resources. It also means predicting and mitigating risks associated with technological advancements, shifts in market trends, or team dynamics. 
@@ -26,7 +26,7 @@ Engineering leaders drive strategic planning, oversee talent management, coordin
 
 Because of these many responsibilities (and there are many missing from this list!), I have seen leaders stop coding as they feel they no longer have the time. However, as I’ll explain, coding proficiency is vital in an engineering leader’s role, lending them credibility and helping in thorough decision-making and estimation.
 
-## Benefits of coding for engineering leaders 
+# Benefits of coding for engineering leaders 
 Programming languages are the language of technology, and a leader who can speak it fluently has a distinct advantage. When you converse with your team in the language they are most comfortable with—code, you are inevitably increasing efficiency, promoting innovation, and developing a more profound connection with your team.
 
 Coding as an engineering leader is about far more than simply keeping your technical skills fresh. It’s about fostering a deeper connection with your product, your team, and the broader tech industry.
@@ -49,8 +49,7 @@ Here’s what I’ve found as I’ve continued my coding journey:
 
 Sound good?  Convinced but not sure how to meaningfully maintain your technical prowess? Excellent as I have a few suggestions in that area based on my own experience. 
 
-## Strategies to maintain technical competency
-
+# Strategies to maintain technical competency
 What worked for me:
 - Doing code reviews. 
 - Build small features or fixing bugs in each domain you manage. The important part of that you follow the same processes your developers do and deliver code from ticket to production. Make sure you do this even in area you’re not strong in. For example, if you have a background as a backend developer, make sure you write frontend code as well!
@@ -63,7 +62,7 @@ What doesn’t work:
 
 Maintaining technical competency is a journey, not a destination. It requires ongoing commitment and an openness to adapt and learn, both from your team and from the rapidly progressing tech world outside. The options provided above are just an example of what has worked for me, your mileage may vary!
 
-## Challenges and how to overcome them
+# Challenges and how to overcome them
 Juggling programming with other leadership responsibilities can be a tightrope walk. It’s about finding a balance and maintaining it. Effective time management skills, knowing when and what to delegate, and adhering to a strict regimen of coding can help in overcoming these challenges. When challenges do occur, it’s important to remember the substantial benefits that come from staying technically hands-on.
 
 Time Management: Effective time management is crucial in ensuring there is sufficient time allotted to both coding and leadership roles. Establishing a strict schedule allowing regular coding activities and learning without eating into the time for managerial obligations is fundamental. Utilise productivity tools and apps that help manage time effectively and stick to a strict regimen, even if it means setting a specific deadline for administrative tasks to concentrate on coding.
@@ -78,7 +77,7 @@ Building a Supportive Network: Joining or building a community of engineering le
 
 In all this, it is important to remember that the objective isn’t just about getting involved in coding work but being an effective leader too. By adopting an appropriate approach and the resolve to keep learning, overcoming these challenges can lead to a uniquely fulfilling leadership experience that blends the best of both the technical and administrative worlds.
 
-## Last thoughts
+# Last thoughts
 A well-rounded leader is one who can inspire others and contribute operationally. Striking this balance leads to robust decision-making, increased team productivity, harmonious work environments, and high job satisfaction levels. The key is crafting a schedule where leadership and coding tasks coexist, accentuating your technical knowledge without sidestepping managerial responsibilities.
 
 Being one foot on the ground, in the thick of the coding trenches, facilitates the making of informed micro and macro level decisions, anticipating industry trends, and driving innovative strategies. Such a skillset doesn’t minimise your leadership capacities but expansively augments them, forming a well-rounded and deeply effective leadership style. Your ability to don multiple hats—of a manager, a strategist, a mentor, and also a seasoned coder—is what will set you apart in this dynamic, technology-driven environment. Never underestimate the power of rolling up your sleeves. Happy coding!
