@@ -77,6 +77,8 @@ This whimsical journey reminds us that while technology can change the way we ex
 
 As we bid adieu to our digital-age Shakespeare, we can’t help but imagine him, with a twinkle in his eye, contemplating his next masterpiece on a tablet, perhaps musing, “All the world’s a screen, and all the men and women merely players with Wi-Fi connections.”
 
+How would other historical figures fare in the world of social media? Their stories, like Shakespeare's, are ripe for a modern retelling, where [History Meets Hashtag](https://robwells.dev/education/).
+
 
 
 

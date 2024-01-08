@@ -103,4 +103,4 @@ Had Caesar lived in the era of hashtags and viral content, he might have been a 
 
 In a way, Caesar’s story is the ultimate reminder of the power of narrative and how it shapes our understanding of history. Whether through ancient texts or hypothetical social media feeds, the way we tell stories shapes how we perceive the figures of the past.
 
-As we sign off, let’s imagine for a moment – what if historical figures did have social media? How would their stories unfold differently? Perhaps it’s a reminder that behind every tweet, post, or story, there’s a narrative waiting to be explored, just as rich and complex as Caesar’s.
+As we sign off, let’s imagine for a moment – what if historical figures did have social media? How would their stories unfold differently? Perhaps it’s a reminder that behind every tweet, post, or story, there’s a narrative waiting to be explored, [just as rich and complex as Caesar’s](https://robwells.dev/education/).
