@@ -18,11 +18,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-GB"
 title                    : "Rob Wells"
 title_separator          : "-"
-subtitle                 : "Engineering Leadership at Startups" # site tagline that appears below site title in masthead
+subtitle                 : "Engineering Leadership and Nonesense (mostly nonesense)" # site tagline that appears below site title in masthead
 name                     : "Rob Wells"
 description              : "Engineering Leadership at Startups."
 url                      : "https://robwells.dev"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+# baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "robiwells/website"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/self_lightmode_whtebg_512.webp"
